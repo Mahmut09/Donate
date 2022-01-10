@@ -1,8 +1,8 @@
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
-const rinkeby_PRIVATE_KEY = ""; // 7e923d52886172411a38d2a440a4d2fadf7e6a2819294d4cb7c75279363f65a2
-  
+const rinkeby_PRIVATE_KEY = "";  //7e923d52886172411a38d2a440a4d2fadf7e6a2819294d4cb7c75279363f65a2
+
 require("@nomiclabs/hardhat-waffle");
 require("@nomiclabs/hardhat-web3");
  //require("@nomiclabs/hardhat-etherscan");
